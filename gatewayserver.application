@@ -3,4 +3,3 @@ server.port = 8086
 eureka.instance.prefer-ip-address= true
 eureka.client.register-with-eureka= true
 eureka.client.fetch-registry = true
-eureka.client.serviceurl.defaultZone = http://localhost:8085/eureka
